@@ -1,13 +1,14 @@
 package ch06;
 
-public class Zerg extends Unit {
+public class Zerg extends Unit{
 
 	@Override
 	public void attack() {
-		System.out.println("Zerg АјАн...");
+		// TODO Auto-generated method stub
 		
 	}
 
+	
+	
 }
-
 
